@@ -1,0 +1,151 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+.container {
+    text-align: center;
+    width: 900px;
+    margin: 0 auto;
+    font-family: sans-serif;
+}
+.logo {
+    margin-top: 25px;
+}
+.photo {
+    width: 60px;
+}
+.text-wht {
+    color: white;
+    text-align: left;
+    padding-left: 20px;
+}
+.part-1 {
+    display: flex;
+    flex-direction: column;
+    background-color: #299781;
+    padding-top: 10px;
+}
+.menu {
+    display: flex;
+    text-transform: uppercase;
+    list-style-type: none;
+    color: white;
+    font-size: 12px;
+    font-weight: bold;
+    background-color: #16b89a;
+    width: 500px;
+    gap: 20px;
+    padding: 10px 0;
+    padding-left: 25px;
+}
+.chapter {
+    margin-left: 25px;
+    display: flex;
+    align-items: center;
+    padding-bottom: 20px;
+}
+.navigation {
+    padding-bottom: 20px;
+}
+.part-2 {
+    background-color: #f7f8fa;
+    padding-top: 25px;
+    padding-bottom: 25px;
+
+}
+.lil-text {
+    font-size: 11px;
+    padding-top: 20px;
+    line-height: 2em;
+}
+.color {
+    color: #16b89a;
+}
+.nav {
+    display: flex;
+    padding-top: 50px;
+    justify-content: space-around;
+}
+h3 {
+    font-size: 12pt;
+    padding-bottom: 20px;
+}
+.text {
+    line-height: 1.8em;
+    font-size: 9pt;
+    padding-bottom: 30px;
+}
+.btn-learn {
+    padding: 10px 30px;
+    font-size: 9pt;
+    background-color: #299781;
+    color: white;
+    border: none;
+}
+.article {
+    display: flex;
+    padding-top: 35px;
+    padding-bottom: 35px;
+}
+.foto {
+    padding-bottom: 20px;
+}
+h4 {
+    font-size: 9pt;
+    padding-bottom: 20px;
+}
+.section {
+    padding-top: 20px;
+    font-size: 9pt;
+    line-height: 1.8em;
+    padding: 0 10px 30px 0;
+}
+.article-btn {
+     padding: 10px 30px;
+     background-color: #299781;
+     color: white;
+     border: none;
+}
+.aside {
+    background-color: #f7f8fa;
+    padding-top: 30px;
+}
+h5 {
+    font-size: 15pt;
+    padding-bottom: 25px;
+}
+.aside-foto {
+    width: 50px;
+    border: 1px solid black;
+    border-radius: 50px;
+    background-color: #299781;
+    padding: 5px;
+    border: none;
+}
+.fotogrph {
+    display: flex;
+    justify-content: space-between;
+    padding: auto;
+    width: 720px;
+    padding-left: 170px;
+    padding-bottom: 35px;
+}
+.footer {
+    background-color: #299781;
+}
+.link {
+    padding-top: 30px;
+    padding-bottom: 20px;
+}
+a {
+    text-decoration: none;
+    color: white;
+    font-size: 8pt;
+}
+.last-foto {
+    width: 15px;
+}
+.foto-footer {
+    padding-bottom: 30px;
+}
